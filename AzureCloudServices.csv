@@ -1,0 +1,193 @@
+name;quadrant;ring;isNew;description
+Administrative Units;HYBRID DATACENTER;1;FALSE;Container of resources that can be used for delegating administrative permissions 
+Advanced Threat Analytics (ATA);HYBRID DATACENTER;3;FALSE;
+API Apps;APPLICATION DEVELOPMENT;1;FALSE;Easily build and consume Cloud APIs
+API Management;APPLICATION DEVELOPMENT;1;FALSE;Publish APIs to developers, partners, and employees securely and at scale
+App Service;APPLICATION DEVELOPMENT;1;FALSE;Quickly create powerful cloud apps for web and mobile
+Application Gateway;HYBRID DATACENTER;3;FALSE;Build secure, scalable, and highly available web front ends in Azure
+Archive Storage;HYBRID DATACENTER;4;FALSE;Industry leading price point for storing rarely accessed data
+Automation;HYBRID DATACENTER;2;FALSE;Simplify cloud management with process automation
+AutoPilot;HYBRID DATACENTER;3;FALSE;
+Avere vFXT for Azure;HYBRID DATACENTER;4;FALSE;Run high-performance, file-based workloads in the cloud
+Azure Active Directory;HYBRID DATACENTER;1;FALSE;Synchronize on-premises directories and enable single sign-on
+Azure Active Directory B2B;HYBRID DATACENTER;1;FALSE;
+Azure Active Directory B2C;HYBRID DATACENTER;1;FALSE;Consumer identity and access management in the cloud
+Azure Active Directory Domain Services;HYBRID DATACENTER;1;FALSE;Join Azure virtual machines to a domain without domain controllers
+Azure AD Application Proxy;HYBRID DATACENTER;1;FALSE;
+Azure AD Connect Health;HYBRID DATACENTER;1;FALSE;
+Azure Advanced Threat Protection (ATP);HYBRID DATACENTER;3;FALSE;
+Azure Advisor;HYBRID DATACENTER;1;FALSE;Your personalized Azure best practices recommendation engine
+Azure Analysis Services;DATA INSIGHTS;1;FALSE;Enterprise-grade analytics engine as a service
+Azure Artifacts;APPLICATION DEVELOPMENT;3;FALSE;Create, host, and share packages with your team
+Azure Backup;HYBRID DATACENTER;1;FALSE;Simplify data protection and protect against ransomware
+Azure Batch AI;DATA INSIGHTS;2;FALSE;Easily experiment and train your deep learning and AI models in parallel at scale
+Azure Blueprints;HYBRID DATACENTER;3;FALSE;Enabling quick, repeatable creation of governed environments
+Azure Boards;APPLICATION DEVELOPMENT;3;FALSE;Plan, track, and discuss work across your teams
+Azure Bot Service;DATA INSIGHTS;1;FALSE;Intelligent, serverless bot service that scales on demand
+Azure Cache for Redis;HYBRID DATACENTER;4;FALSE;Power applications with high-throughput, low-latency data access
+Azure Conditional Access;HYBRID DATACENTER;1;FALSE;
+Azure Cosmos DB;CONNECTED SERVICES;2;FALSE;Globally distributed, multi-model database for any scale
+Azure CycleCloud;HYBRID DATACENTER;4;FALSE;Create, manage, operate, and optimize HPC and big compute clusters of any scale
+Azure Data Explorer;DATA INSIGHTS;2;FALSE;Fast and highly scalable data exploration service
+Azure Data Lake Storage;DATA INSIGHTS;1;FALSE;Massively scalable, secure data lake functionality built on Azure Blob Storage
+Azure Database for MariaDB;HYBRID DATACENTER;4;FALSE;Managed MariaDB database service for app developers
+Azure Database for MySQL;HYBRID DATACENTER;4;FALSE;Managed MySQL database service for app developers
+Azure Database for PostgreSQL;HYBRID DATACENTER;4;FALSE;Managed PostgreSQL database service for app developers
+Azure Database Migration Service;HYBRID DATACENTER;2;FALSE;Simplify on-premises database migration to the cloud
+Azure Databricks;DATA INSIGHTS;1;FALSE;Fast, easy, and collaborative Apache Spark-based analytics platform
+Azure DDoS Protection;HYBRID DATACENTER;3;FALSE;Protect your applications from Distributed Denial of Service (DDoS) attacks
+Azure Dedicated HSM;HYBRID DATACENTER;4;FALSE;Manage hardware security modules that you use in the cloud
+Azure DevOps;HYBRID DATACENTER;1;FALSE;Services for teams to share code, track work, and ship software
+Azure DevOps;APPLICATION DEVELOPMENT;1;FALSE;Services for teams to share code, track work, and ship software
+Azure DevTest Labs;APPLICATION DEVELOPMENT;3;FALSE;Quickly create environments using reusable templates and artifacts
+Azure Digital Twins;CONNECTED SERVICES;2;FALSE;Build next-generation IoT spatial intelligence solutions
+Azure DNS;HYBRID DATACENTER;4;FALSE;Host your DNS domain in Azure
+Azure Firewall;HYBRID DATACENTER;3;FALSE;Native firewalling capabilities with built-in high availability, unrestricted cloud scalability, and zero maintenance
+Azure Front Door Service;HYBRID DATACENTER;2;FALSE;Scalable, security-enhanced delivery point for global, microservice-based web applications
+Azure Functions;HYBRID DATACENTER;1;FALSE;Process events with serverless code
+Azure Functions;APPLICATION DEVELOPMENT;1;FALSE;Process events with serverless code
+Azure Identity Protection;HYBRID DATACENTER;2;FALSE;
+Azure Information Protection Plan 1;HYBRID DATACENTER;1;FALSE;Better protect your sensitive information?anytime, anywhere
+Azure Information Protection Plan 2;HYBRID DATACENTER;1;FALSE;Better protect your sensitive information?anytime, anywhere
+Azure IoT Central;CONNECTED SERVICES;1;FALSE;Experience the simplicity of SaaS for IoT, with no cloud expertise required
+Azure IoT Edge;CONNECTED SERVICES;1;FALSE;Extend cloud intelligence and analytics to edge devices
+Azure IoT Hub;CONNECTED SERVICES;1;FALSE;Connect, monitor and manage billions of IoT assets
+Azure IoT solution accelerators;CONNECTED SERVICES;1;FALSE;Create fully customizable solutions with templates for common IoT scenarios
+Azure Kubernetes Service (AKS);HYBRID DATACENTER;3;FALSE;Simplify the deployment, management, and operations of Kubernetes
+Azure Lab Services;HYBRID DATACENTER;3;FALSE;Set up labs for classrooms, trials, development and testing, and other scenarios
+Azure Machine Learning service;DATA INSIGHTS;1;FALSE;Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management
+Azure Managed Applications;APPLICATION DEVELOPMENT;2;FALSE;Simplify management of cloud offerings
+Azure Maps;CONNECTED SERVICES;2;FALSE;Simple and secure location APIs provide geospatial context to data
+Azure Maps;APPLICATION DEVELOPMENT;2;FALSE;Simple and secure location APIs provide geospatial context to data
+Azure Media Player;APPLICATION DEVELOPMENT;2;FALSE;A single layer for all your playback needs
+Azure Migrate;HYBRID DATACENTER;1;FALSE;Easily discover, assess, right-size, and migrate your on-premises VMs to Azure
+Azure Mobile App;HYBRID DATACENTER;1;FALSE;Stay connected to your Azure resources?anytime, anywhere
+Azure Monitor;HYBRID DATACENTER;1;FALSE;Full observability into your applications, infrastructure, and network
+Azure Multi-Factor Authentication (MFA);HYBRID DATACENTER;1;FALSE;
+Azure NetApp Files;HYBRID DATACENTER;4;FALSE;Powerful, hybrid network file system (NFS) file shares
+Azure Pipelines;HYBRID DATACENTER;2;FALSE;Continuously build, test, and deploy to any platform and cloud
+Azure Pipelines;APPLICATION DEVELOPMENT;2;FALSE;Continuously build, test, and deploy to any platform and cloud
+Azure Policy;HYBRID DATACENTER;1;FALSE;Implement corporate governance and standards at scale for Azure resources
+Azure Privileged Identity Management (PIM);HYBRID DATACENTER;2;FALSE;
+Azure Repos;APPLICATION DEVELOPMENT;1;FALSE;Get unlimited, cloud-hosted private Git repos for your project
+Azure Resource Manager;HYBRID DATACENTER;1;FALSE;Simplify how you manage your app resources
+Azure Search;DATA INSIGHTS;2;FALSE;Fully-managed search-as-a-service
+Azure Sentinel;HYBRID DATACENTER;2;FALSE;
+Azure Service Health;HYBRID DATACENTER;1;FALSE;Personalized guidance and support for when issues in Azure services affect you
+Azure SignalR Service;APPLICATION DEVELOPMENT;3;FALSE;Add real-time web functionalities easily
+Azure Site Recovery;HYBRID DATACENTER;1;FALSE;Keep your business running with built-in disaster recovery service
+Azure Sphere;CONNECTED SERVICES;2;FALSE;Securely connect MCU-powered devices from the silicon to the cloud
+Azure SQL Database;HYBRID DATACENTER;2;FALSE;Managed relational SQL Database as a service
+Azure Stack HCI;HYBRID DATACENTER;4;FALSE;
+Azure Stream Analytics;DATA INSIGHTS;1;FALSE;Real-time data stream processing from millions of IoT devices
+Azure Test Plans;APPLICATION DEVELOPMENT;3;FALSE;Test and ship with confidence with a manual and exploratory testing toolkit
+Azure Time Series Insights;CONNECTED SERVICES;3;FALSE;Explore and analyze time-series data from IoT devices
+Azure VMware Solutions;HYBRID DATACENTER;3;FALSE;VMware Solution on Azure by CloudSimple is a fully managed service that lets you run the VMware platform in Azure
+Batch;HYBRID DATACENTER;3;FALSE;Cloud-scale job scheduling and compute management
+Bing Autosuggest;DATA INSIGHTS;3;FALSE;Give your app intelligent autosuggest options for searches
+Bing Custom Search;DATA INSIGHTS;3;FALSE;An easy-to-use, ad-free, commercial-grade search tool that lets you deliver the results you want
+Bing Entity Search;DATA INSIGHTS;3;FALSE;Enrich your experiences by identifying and augmenting entity information from the web
+Bing Image Search;DATA INSIGHTS;3;FALSE;Search for images and get comprehensive results
+Bing News Search;DATA INSIGHTS;3;FALSE;Search for news and get comprehensive results
+Bing Spell Check;DATA INSIGHTS;3;FALSE;Detect and correct spelling mistakes in your app
+Bing Video Search;DATA INSIGHTS;3;FALSE;Search for videos and get comprehensive results
+Bing Visual Search;DATA INSIGHTS;3;FALSE;Get rich insights to help build compelling image applications on the device of your choice.
+Bing Web Search;DATA INSIGHTS;3;FALSE;Get enhanced search details from billions of web documents
+Blob Storage;HYBRID DATACENTER;1;FALSE;REST-based object storage for unstructured data
+CLIs;HYBRID DATACENTER;4;FALSE;Build, deploy, diagnose, and manage multi-platform, scalable apps and services
+Cloud App Discovery;HYBRID DATACENTER;3;FALSE;
+Cloud Services;APPLICATION DEVELOPMENT;1;FALSE;Create highly-available, infinitely-scalable cloud applications and APIs
+Cloud Shell;HYBRID DATACENTER;1;FALSE;Streamline Azure administration with a browser-based shell
+Cognitive Services;DATA INSIGHTS;2;FALSE;Add smart API capabilities to enable contextual interactions
+Company Branding;HYBRID DATACENTER;1;FALSE;
+Computer Vision;DATA INSIGHTS;3;FALSE;Distill actionable information from images
+Container Instances;HYBRID DATACENTER;2;FALSE;Easily run containers on Azure without managing servers
+Container Registry;HYBRID DATACENTER;3;FALSE;Store and manage container images across all types of Azure deployments
+Content Delivery Network;APPLICATION DEVELOPMENT;1;FALSE;Ensure secure, reliable content delivery with broad global reach
+Content Moderator;DATA INSIGHTS;3;FALSE;Automated image, text, and video moderation
+Content Protection;APPLICATION DEVELOPMENT;3;FALSE;Securely deliver content using AES, PlayReady, Widevine, and Fairplay
+Cost Management;HYBRID DATACENTER;1;FALSE;Optimize what you spend on the cloud, while maximizing cloud potential
+Custom Speech;DATA INSIGHTS;3;FALSE;Overcome speech recognition barriers like speaking style, background noise, and vocabulary
+Custom Vision;DATA INSIGHTS;3;FALSE;Easily customize your own state-of-the-art computer vision models for your unique use case
+Data Box;HYBRID DATACENTER;4;FALSE;Secure, ruggedized appliance for Azure data transfer
+Data Catalog;DATA INSIGHTS;1;FALSE;Get more value from your enterprise data assets
+Data Factory;DATA INSIGHTS;1;FALSE;Hybrid data integration at enterprise scale, made easy
+Data Lake Analytics;DATA INSIGHTS;2;FALSE;Distributed analytics service that makes big data easy
+Data Science Virtual Machines;DATA INSIGHTS;1;FALSE;Rich pre-configured environment for AI development
+Developer tool integrations;HYBRID DATACENTER;4;FALSE;Use the development tools you know?including Eclipse, IntelliJ, and Maven?with Azure
+Disk Storage;HYBRID DATACENTER;1;FALSE;Persistent, secured disk options supporting virtual machines
+Emotion;DATA INSIGHTS;3;FALSE;Personalize user experiences with emotion recognition
+Encoding;APPLICATION DEVELOPMENT;3;FALSE;Studio grade encoding at cloud scale
+Event Grid;CONNECTED SERVICES;1;FALSE;Get reliable event delivery at massive scale
+Event Hubs;DATA INSIGHTS;1;FALSE;Receive telemetry from millions of devices
+Exchange Online;HYBRID DATACENTER;1;FALSE;
+ExpressRoute;HYBRID DATACENTER;1;FALSE;Dedicated private network fiber connections to Azure
+Face;DATA INSIGHTS;3;FALSE;Detect, identify, analyze, organize, and tag faces in photos
+File Storage;HYBRID DATACENTER;1;FALSE;File shares that use the standard SMB 3.0 protocol
+HDInsight;DATA INSIGHTS;3;FALSE;Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+Intune;HYBRID DATACENTER;1;FALSE;
+Intune for Education;HYBRID DATACENTER;3;FALSE;
+Key Vault;HYBRID DATACENTER;2;FALSE;Safeguard and maintain control of keys and other secrets
+Language Understanding;DATA INSIGHTS;2;FALSE;Teach your apps to understand commands from your users
+Linguistic Analysis;DATA INSIGHTS;2;FALSE;Simplify complex language concepts and parse text with the Linguistic Analysis API
+Linux Virtual Machines;HYBRID DATACENTER;3;FALSE;Provision virtual machines for Ubuntu, Red Hat, and more
+Live and On-Demand Streaming;APPLICATION DEVELOPMENT;3;FALSE;Deliver content to virtually all devices with scale to meet business needs
+Load Balancer;HYBRID DATACENTER;2;FALSE;Deliver high availability and network performance to your applications
+Log Analytics;HYBRID DATACENTER;1;FALSE;
+Logic Apps;APPLICATION DEVELOPMENT;1;FALSE;Automate the access and use of data across clouds without writing code
+Machine Learning Studio;DATA INSIGHTS;1;FALSE;Easily build, deploy, and manage predictive analytics solutions
+Managed Disks;HYBRID DATACENTER;1;FALSE;Persistent, secured disk storage for Azure virtual machines
+Media Analytics;APPLICATION DEVELOPMENT;3;FALSE;Uncover insights from video files with speech and vision services
+Media Services;APPLICATION DEVELOPMENT;3;FALSE;Encode, store, and stream video and audio at scale
+Microsoft Azure portal;HYBRID DATACENTER;1;FALSE;Build, manage, and monitor all Azure products in a single, unified console
+Microsoft Cloud App Security;HYBRID DATACENTER;3;FALSE;
+Microsoft Defender Advanced Threat Protection (ATP);HYBRID DATACENTER;2;FALSE;
+Microsoft Genomics;DATA INSIGHTS;3;FALSE;Power genome sequencing & research insights
+Mobile Apps;APPLICATION DEVELOPMENT;3;FALSE;Build and host the backend for any mobile app
+Network Watcher;HYBRID DATACENTER;1;FALSE;Network performance monitoring and diagnostics solution
+Notification Hubs;APPLICATION DEVELOPMENT;3;FALSE;Send push notifications to any platform from any back end
+Office 365 Advanced Threat Protection (ATP) Plan 1;HYBRID DATACENTER;1;FALSE;
+Office 365 Advanced Threat Protection (ATP) Plan 2;HYBRID DATACENTER;2;FALSE;
+Office 365 Cloud App Security;HYBRID DATACENTER;3;FALSE;
+OneDrive for Business;HYBRID DATACENTER;1;FALSE;
+Power BI Embedded;DATA INSIGHTS;1;FALSE;Embed fully interactive, stunning data visualizations in your applications
+QnA Maker;DATA INSIGHTS;1;FALSE;Distill information into conversational, easy-to-navigate answers
+Queue Storage;HYBRID DATACENTER;2;FALSE;Effectively scale apps according to traffic
+R Server for HDInsight;DATA INSIGHTS;3;FALSE;Predictive analytics, machine learning, and statistical modeling for big data
+SAP HANA on Azure Large Instances;HYBRID DATACENTER;4;FALSE;Run the largest SAP HANA workloads of any hyperscale cloud provider
+Scheduler;HYBRID DATACENTER;2;FALSE;Run your jobs on simple or complex recurring schedules
+SDKs;HYBRID DATACENTER;3;FALSE;Get the SDKs and command-line tools you need
+Security Center;HYBRID DATACENTER;1;FALSE;Unify security management and enable advanced threat protection across hybrid cloud workloads
+Self-Service Password Reset;HYBRID DATACENTER;1;FALSE;
+Service Bus;APPLICATION DEVELOPMENT;1;FALSE;Connect across private and public cloud environments
+Service Fabric;APPLICATION DEVELOPMENT;3;FALSE;Develop microservices and orchestrate containers on Windows or Linux
+SharePoint Online;APPLICATION DEVELOPMENT;1;FALSE;
+Skype for Business Online;COLLABORATION AND COMMUNICATION;1;FALSE;
+Speaker Recognition;DATA INSIGHTS;3;FALSE;Use speech to identify and verify individual speakers
+Speech to Text;DATA INSIGHTS;3;FALSE;The Speech to Text API is part of Azure Cognitive Services Speech Services
+Speech Translation;DATA INSIGHTS;3;FALSE;Easily integrate real-time speech translation to your app
+SQL Data Warehouse;DATA INSIGHTS;1;FALSE;Elastic data warehouse as a service with enterprise-class features
+SQL Server on Virtual Machines;HYBRID DATACENTER;1;FALSE;Host enterprise SQL Server apps in the cloud
+SQL Server Stretch Database;HYBRID DATACENTER;3;FALSE;Dynamically stretch on-premises SQL Server databases to Azure
+Storage;HYBRID DATACENTER;1;FALSE;Durable, highly available, and massively scalable cloud storage
+Storage Explorer;HYBRID DATACENTER;1;FALSE;View and interact with Azure Storage resources
+StorSimple;HYBRID DATACENTER;4;FALSE;Lower costs with an enterprise hybrid cloud storage solution
+Table Storage;HYBRID DATACENTER;4;FALSE;NoSQL key-value store using semi-structured datasets
+Teams - Collaboration;COLLABORATION AND COMMUNICATION;1;FALSE;
+Teams - Communication;COLLABORATION AND COMMUNICATION;1;FALSE;
+Text Analytics;DATA INSIGHTS;2;FALSE;Easily evaluate sentiment and topics to understand what users want
+Text to Speech;DATA INSIGHTS;3;FALSE;Convert text to speech to create more natural, accessible interfaces
+Traffic Manager;HYBRID DATACENTER;1;FALSE;Route incoming traffic for high performance and availability
+Translator Speech;DATA INSIGHTS;3;FALSE;Easily conduct real-time speech translation with a simple REST API call
+Translator Text;DATA INSIGHTS;3;FALSE;Easily conduct machine translation with a simple REST API call
+Video Indexer;APPLICATION DEVELOPMENT;3;FALSE;Unlock video insights
+Virtual Network;HYBRID DATACENTER;1;FALSE;Provision private networks, optionally connect to on-premises datacenters
+Virtual WAN;HYBRID DATACENTER;3;FALSE;Optimize and automate branch to branch connectivity through Azure
+VPN Gateway;HYBRID DATACENTER;1;FALSE;Establish secure, cross-premises connectivity
+Web App for Containers;APPLICATION DEVELOPMENT;3;FALSE;Easily deploy and run containerized web apps that scale with your business
+Web Apps;APPLICATION DEVELOPMENT;1;FALSE;Quickly create and deploy mission critical web apps at scale
+Windows 10 Enteprise E3/E5;HYBRID DATACENTER;1;FALSE;
+Windows 10 IoT Core Services;CONNECTED SERVICES;3;FALSE;Long-term OS support and services to manage device updates and assess device health
+Windows Virtual Desktop;HYBRID DATACENTER;2;FALSE;
+Xamarin;APPLICATION DEVELOPMENT;1;FALSE;Create cloud-powered mobile apps faster
+Yammer Enterprise;APPLICATION DEVELOPMENT;1;FALSE;
